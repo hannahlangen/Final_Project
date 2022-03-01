@@ -1,19 +1,19 @@
-# Final_Project
-Final Project: Marketing Campaign Analysis & Clustering
+# Final Project
+Final Project: Marketing Campaign Analysis & Clustering  
 
 Group Members: Louisa & Hannah
 
 Goal of the project:
 
-Build a model that will predict the price of a house based on features provided in the dataset.
-Further explore the characteristics of the houses using tableau. 
+Cluster customers of a store according to their attributes and buying patterns. Create target personas and predict their buying behaviours to create more targeted advertising campaigns.  (Customer Personality Analysis / Analysis of company's ideal customers)
 
 
 Brief description of the dataset:
 
-Source: housing data from a real estate company: data from houses sold between May 2014 and May 2015 in Seattle and Kings County, WA (USA)
-21 columns 
-21.597 entries
+Source: https://www.kaggle.com/imakash3011/customer-personality-analysis 
+company data from a store: data about customers including which products they bought and which ad campaign they responded to 
+29 columns 
+2240 entries
 
 
 Project Plan
