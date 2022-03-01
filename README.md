@@ -1,5 +1,5 @@
 # Final Project
-Final Project: Marketing Campaign Analysis & Clustering  
+Marketing Campaign Analysis & Clustering  
 
 Group Members: Louisa & Hannah
 
