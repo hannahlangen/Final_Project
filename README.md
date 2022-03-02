@@ -20,30 +20,30 @@ company data from a store: data about customers including which products they bo
 
 ## Day 1 + 2 (28.2.2022-1.3.2022)
 
--Research Datasets
--EDA
+- Research Datasets
+- EDA
 
 ## Day 3, 4 & 5 - EDA, preproccesing data & Modelling (2.3.2022-4.3.2022)
 
--Clean data (e.g. remove typos, correct data types, fill missing values, drop/add columns)
--clustering data
--modelling (unsupervised learning)
+- Clean data (e.g. remove typos, correct data types, fill missing values, drop/add columns)
+- clustering data
+- modelling (unsupervised learning)
 - kmeans (try Mini Batch K-Means, DBScan, Spectral clustering, Agglomerative clustering)
--improve model
--descriptive analysis of clusters
+- improve model
+- descriptive analysis of clusters
 
 ## Day 6 + 7 - work on Presentation + Personas (7.3.2022 - 8.3.2022)
--create presentation layout
--develop presenation structure
--develop + describe personas 
+- create presentation layout
+- develop presenation structure
+- develop + describe personas 
 
 ## Day 8 - Finish model & presentation  (9.3.2022)
--work out any last issues concerning code + presentation 
--finish presentation
+- work out any last issues concerning code + presentation 
+- finish presentation
 
 ## Day 9 - Final Touches (10.3.2022)
--document code
--formatting and final cleaning jupyter notebook
--practice presentation
+- document code
+- formatting and final cleaning jupyter notebook
+- practice presentation
 
 ## Day 10 - Presentation (11.3.2022)
