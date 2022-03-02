@@ -34,16 +34,17 @@ company data from a store: data about customers including which products they bo
 
 ## Day 6 + 7 - work on Presentation + Personas (7.3.2022 - 8.3.2022)
 - create presentation layout
-- develop presenation structure
-- develop + describe personas 
+- develop presentation structure
+- create + describe personas 
 
 ## Day 8 - Finish model & presentation  (9.3.2022)
 - work out any last issues concerning code + presentation 
-- finish presentation
+- work on presentation
 
 ## Day 9 - Final Touches (10.3.2022)
 - document code
 - formatting and final cleaning jupyter notebook
+- finish presentation
 - practice presentation
 
 ## Day 10 - Presentation (11.3.2022)
