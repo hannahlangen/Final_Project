@@ -1,49 +1,100 @@
-# Final Project
-Marketing Campaign Analysis & Clustering  
+# Creating Marketing Personas: Unsupervised Clustering & Descriptive Analysis
 
 Group Members: Louisa & Hannah
 
-# Goal of the project:
+# Goal of the project
 
-Cluster customers of a store according to their attributes and buying patterns. Create target personas and predict their buying behaviours to create more targeted advertising campaigns. 
+Cluster customers of a store according to their attributes and buying patterns. Develop target personas to create more targeted advertising campaigns. 
 
 
-# Brief description of the dataset:
+# Brief description of the dataset
 
 Source: https://www.kaggle.com/imakash3011/customer-personality-analysis 
 company data from a store: data about customers including which products they bought from where (store, catalogue, website) and which ad campaign they responded to 
-29 columns 
-2240 entries
+- 29 columns 
+- 2240 entries
 
 
 # Project Plan
 
 ## Day 1 + 2 (28.2.2022-1.3.2022)
-
 - Research Datasets
 - EDA
 
-## Day 3, 4 & 5 - EDA, preproccessing data & modelling (2.3.2022-4.3.2022)
-
+## Day 3, 4 & 5 - EDA, preprocessing data & modeling (2.3.2022-4.3.2022)
 - Clean data (e.g. remove typos, correct data types, fill missing values, drop/add columns)
 - clustering data
-- modelling (unsupervised learning)
-- kmeans (try Mini Batch K-Means, DBScan, Spectral clustering, Agglomerative clustering)
+- modeling (unsupervised learning)
+- kmeans (try Mini Batch K-Means, PCA, Spectral clustering, Agglomerative clustering)
 - improve model
 - descriptive analysis of clusters
 
 ## Day 6 + 7 - work on Presentation + Personas (7.3.2022 - 8.3.2022)
 - create presentation layout
-- develop presenation structure
-- develop + describe personas 
+- develop presentation structure
+- create + describe personas 
 
 ## Day 8 - Finish model & presentation  (9.3.2022)
 - work out any last issues concerning code + presentation 
-- finish presentation
+- work on presentation
 
 ## Day 9 - Final Touches (10.3.2022)
 - document code
 - formatting and final cleaning jupyter notebook
+- finish presentation
 - practice presentation
 
 ## Day 10 - Presentation (11.3.2022)
+
+
+
+# Kaggle Project Description
+## Context
+
+## Problem Statement
+
+- Customer Personality Analysis is a detailed analysis of a company’s ideal customers. It helps a business to better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns of different types of customers.
+
+- Customer personality analysis helps a business to modify its product based on its target customers from different types of customer segments. For example, instead of spending money to market a new product to every customer in the company’s database, a company can analyze which customer segment is most likely to buy the product and then market the product only on that particular segment.
+
+## Attributes
+
+## People
+
+- ID: Customer's unique identifier
+- Year_Birth: Customer's birth year
+- Education: Customer's education level
+- Marital_Status: Customer's marital status
+- Income: Customer's yearly household income
+- Kidhome: Number of children in customer's household
+- Teenhome: Number of teenagers in customer's household
+- Dt_Customer: Date of customer's enrollment with the company
+- Recency: Number of days since customer's last purchase
+- Complain: 1 if the customer complained in the last 2 years, 0 otherwise
+
+## Products
+
+- MntWines: Amount spent on wine in last 2 years
+- MntFruits: Amount spent on fruits in last 2 years
+- MntMeatProducts: Amount spent on meat in last 2 years
+- MntFishProducts: Amount spent on fish in last 2 years
+- MntSweetProducts: Amount spent on sweets in last 2 years
+- MntGoldProds: Amount spent on gold in last 2 years
+
+## Promotion
+
+- NumDealsPurchases: Number of purchases made with a discount
+- AcceptedCmp1: 1 if customer accepted the offer in the 1st campaign, 0 otherwise
+- AcceptedCmp2: 1 if customer accepted the offer in the 2nd campaign, 0 otherwise
+- AcceptedCmp3: 1 if customer accepted the offer in the 3rd campaign, 0 otherwise
+- AcceptedCmp4: 1 if customer accepted the offer in the 4th campaign, 0 otherwise
+- AcceptedCmp5: 1 if customer accepted the offer in the 5th campaign, 0 otherwise
+- Response: 1 if customer accepted the offer in the last campaign, 0 otherwise
+
+## Place
+
+- NumWebPurchases: Number of purchases made through the company’s website
+- NumCatalogPurchases: Number of purchases made using a catalogue
+- NumStorePurchases: Number of purchases made directly in stores
+- NumWebVisitsMonth: Number of visits to company’s website in the last month
+
