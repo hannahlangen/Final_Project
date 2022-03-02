@@ -26,7 +26,7 @@ company data from a store: data about customers including which products they bo
 - Clean data (e.g. remove typos, correct data types, fill missing values, drop/add columns)
 - clustering data
 - modeling (unsupervised learning)
-- kmeans (try Mini Batch K-Means, DBScan, Spectral clustering, Agglomerative clustering)
+- kmeans (try Mini Batch K-Means, PCA, Spectral clustering, Agglomerative clustering)
 - improve model
 - descriptive analysis of clusters
 
