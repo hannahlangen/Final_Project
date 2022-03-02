@@ -1,4 +1,6 @@
-# Final Project: Creating Marketing Personas: Unsupervised Clustering & Descriptive Analysis
+# Final Project: 
+
+# Creating Marketing Personas: Unsupervised Clustering & Descriptive Analysis
 
 Group Members: Louisa & Hannah
 
