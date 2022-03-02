@@ -3,12 +3,12 @@ Marketing Campaign Analysis & Clustering
 
 Group Members: Louisa & Hannah
 
-# Goal of the project:
+# Goal of the project
 
 Cluster customers of a store according to their attributes and buying patterns. Create target personas and predict their buying behaviours to create more targeted advertising campaigns. 
 
 
-# Brief description of the dataset:
+# Brief description of the dataset
 
 Source: https://www.kaggle.com/imakash3011/customer-personality-analysis 
 company data from a store: data about customers including which products they bought from where (store, catalogue, website) and which ad campaign they responded to 
