@@ -1,5 +1,5 @@
 # Final Project
-Marketing Campaign Analysis & Clustering  
+Creating Marketing Personas: Unsupervised Clustering & Descriptive Analysis 
 
 Group Members: Louisa & Hannah
 
