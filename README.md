@@ -12,8 +12,8 @@ Cluster customers of a store according to their attributes and buying patterns. 
 
 Source: https://www.kaggle.com/imakash3011/customer-personality-analysis 
 company data from a store: data about customers including which products they bought from where (store, catalogue, website) and which ad campaign they responded to 
-29 columns 
-2240 entries
+- 29 columns 
+- 2240 entries
 
 
 # Project Plan
