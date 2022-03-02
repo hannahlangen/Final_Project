@@ -5,7 +5,7 @@ Group Members: Louisa & Hannah
 
 # Goal of the project
 
-Cluster customers of a store according to their attributes and buying patterns. Create target personas and predict their buying behaviours to create more targeted advertising campaigns. 
+Cluster customers of a store according to their attributes and buying patterns. Develop target personas to create more targeted advertising campaigns. 
 
 
 # Brief description of the dataset
