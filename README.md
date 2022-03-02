@@ -23,7 +23,7 @@ company data from a store: data about customers including which products they bo
 - Research Datasets
 - EDA
 
-## Day 3, 4 & 5 - EDA, preproccesing data & Modelling (2.3.2022-4.3.2022)
+## Day 3, 4 & 5 - EDA, preproccessing data & modelling (2.3.2022-4.3.2022)
 
 - Clean data (e.g. remove typos, correct data types, fill missing values, drop/add columns)
 - clustering data
